@@ -12,7 +12,7 @@
 
 💬 Ask me about **css, react, backpacking, climbing**
 
-📫 How to reach me **aloe.eon@gmail.com**
+📫 You can contact me [here](https://littlebugbest.com/#/contact)
 
 ⚡ Fun fact **I was born on a leap day!**
 </div>
