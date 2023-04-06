@@ -1,14 +1,14 @@
 
-<h2 align="center">Howdy 👋, I'm Aloe (they/them)</h2>
+<h2 align="center">Howdy 👋🏽, I'm Aloe (they/them)</h2>
 <h3 align="center">A passionate frontend developer from Portland, Oregon</h3>
 
 
 <div align="center">
-🔭 I’m currently working on <a href="https://github.com/eonflower/honey-hits" target="blank">honey hits</a>
+☀️ I’m currently working on <a href="https://github.com/eonflower/honey-hits" target="blank">honey hits</a>
 
 🌱 I’m currently learning **material ui, nextjs, & svelte**
 
-👨‍💻 All of my projects are available at [here](https://littlebugbest.com/)
+🦋 You can check out my portfolio [here](https://littlebugbest.com/)
 
 💬 Ask me about **css, react, backpacking, climbing**
 
