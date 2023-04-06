@@ -1,5 +1,5 @@
 
-<align="center"><h1 align="center">Howdy 👋, I'm Aloe (they/them)</h1>
+<h1 align="center">Howdy 👋, I'm Aloe (they/them)</h1>
 <h3 align="center">A passionate frontend developer from Portland, Oregon</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eonflower" alt="eonflower" /></a> </p>
@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **material ui, nextjs, & svelte**
 
-👨‍💻 All of my projects are available at [https://littlebugbest.com/](https://littlebugbest.com/)
+👨‍💻 All of my projects are available at [here](https://littlebugbest.com/)
 
 💬 Ask me about **css, react, backpacking, climbing**
 
