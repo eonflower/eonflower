@@ -4,7 +4,7 @@
 
 
 <div align="center">
-☀️ I’m currently working on <a href="https://github.com/eonflower/honey-hits" target="blank">honey hits</a>
+☀️ I just finished building and deploying [trail chum](https://trail-chum.onrender.com/)
 
 🌱 I’m currently learning **mongoose & mongoDB**
 
