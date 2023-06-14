@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  ☀️ I just finished building and deploying <a href="https://trail-chum.onrender.com/">trail chum</a>
+☀️ I just finished building and deploying <a href="https://trail-chum.onrender.com/">trail chum</a>
 
 🌱 I’m currently learning **mongoose & mongoDB**
 
