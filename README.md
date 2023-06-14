@@ -6,7 +6,7 @@
 <div align="center">
 ☀️ I’m currently working on <a href="https://github.com/eonflower/honey-hits" target="blank">honey hits</a>
 
-🌱 I’m currently learning **material ui, nextjs, & svelte**
+🌱 I’m currently learning **mongoose & mongoDB**
 
 🦋 You can check out my portfolio [here](https://littlebugbest.com/)
 
