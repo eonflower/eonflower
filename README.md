@@ -6,7 +6,7 @@
 <div align="center">
 ☀️ I just finished building and deploying <a href="https://trail-chum.onrender.com/">trail chum</a>
 
-🌱 I’m currently learning **mongoose & mongoDB**
+🌱 I’m currently learning **tailwindcss & react native**
 
 🦋 You can check out my portfolio [here](https://littlebugbest.com/)
 
