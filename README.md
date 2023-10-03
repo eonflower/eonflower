@@ -1,16 +1,16 @@
 
 <h2 align="center">Howdy 👋🏽, I'm Aloe (they/them)</h2>
-<h3 align="center">A passionate frontend developer from Portland, Oregon</h3>
+<h3 align="center">A passionate software developer from Portland, Oregon</h3>
 
 
 <div align="center">
-☀️ I just finished building and deploying <a href="https://trail-chum.onrender.com/">trail chum</a>
+☀️ Actively adding features to <a href="https://trail-chum.onrender.com/">trail chum</a>
 
-🌱 I’m currently learning **tailwindcss & react native**
+🌱 I’m currently deep-diving into **react native**
 
 🦋 You can check out my portfolio [here](https://littlebugbest.com/)
 
-💬 Ask me about **css, react, backpacking, climbing**
+💬 Ask me about **css, react, react native, backpacking, climbing**
 
 📫 You can contact me [here](https://littlebugbest.com/#/contact)
 
