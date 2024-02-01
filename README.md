@@ -66,7 +66,7 @@ About Me
 
 <div align="center">
  <img src="https://www.myspacegens.com/images/online_now/131.gif" alt="online now gif" height="30">
-<h4>✨ Current project is an e-commerce site for utilizing Nextjs and Medusajs ✨</h4>
+<h4>✨ Current project is an e-commerce site utilizing Nextjs and Medusajs ✨</h4>
 
 </div>
 
