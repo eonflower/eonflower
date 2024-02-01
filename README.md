@@ -1,14 +1,21 @@
 
-
 ```
-About Me                                                     /\_______/\
- │                                                     ___  /           \    _
- ├─── Howdy!                                          │ooo│ │   ^   ^   │   │ │
- │    │                                                \o0\ \  // ▼ \\  /   │ │
- │    └─── I'm Aloe (they/them)                         \  \_\         /    │ │
- │             │                                         \              \  / /
- │             ├─── I'm a Software Developer              \            │ │ │ │
- │             │             │                             │           │ │_│ │
+               /\_______/\
+         ___  /           \    _
+        │ooo│ │   ^   ^   │   │ │
+         \o0\ \  // ▼ \\  /   │ │
+          \  \_\         /    │ │
+           \              \  / /
+            \            │ │ │ │
+             │           │ │_│ │
+About Me                                                     
+ │  
+ ├─── Howdy!
+ │    │ 
+ │    └─── I'm Aloe (they/them)
+ │             │ 
+ │             ├─── I'm a Software Developer 
+ │             │             │
  │             │             └───── I <3 Frontend / Mobile 
  │             │    
  │             └── I'm an artist, a climber, an innovator
@@ -34,7 +41,7 @@ About Me                                                     /\_______/\
 <div align="center">
 <img src="./images/logo.png" alt="myspace inspired logo that says littlebugbest.com" height="100">
 <br>
-<img src="https://www.myspacegens.com/images/online_now/131.gif" alt="online now gif" height="30"></h3> 
+
 </div>
 
 </td>
@@ -48,7 +55,7 @@ About Me                                                     /\_______/\
 
 
 <p>
-<img height="130" alt="anime cat tapping on computer keyboard gif" src="https://25.media.tumblr.com/52a1bf75e7343f967c98d1e74d47c519/tumblr_mkyoznbXid1snblx1o1_400.gif"> 
+<img height="100" alt="anime cat tapping on computer keyboard gif" src="https://25.media.tumblr.com/52a1bf75e7343f967c98d1e74d47c519/tumblr_mkyoznbXid1snblx1o1_400.gif"> 
 </a>
 </p>
 
@@ -58,9 +65,10 @@ About Me                                                     /\_______/\
 <br>
 
 <div align="center">
-<h2>✨ Current project is an e-commerce site for utilizing Nextjs and Medusajs ✨</h2>
-</div>
+ <img src="https://www.myspacegens.com/images/online_now/131.gif" alt="online now gif" height="30">
+<h4>✨ Current project is an e-commerce site for utilizing Nextjs and Medusajs ✨</h4>
 
+</div>
 
 
 
