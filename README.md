@@ -16,9 +16,9 @@ About Me
  │             │ 
  │             ├─── I'm a Software Developer 
  │             │             │
- │             │             └───── I <3 Frontend / Mobile 
+ │             │             └───── I ❤️ Frontend / Mobile 
  │             │    
- │             └── I'm an artist, a climber, an innovator
+ │             └── I make stamps, I climb rocks, I walk big miles
  ├─── Where?          
  │     │
  │     └───── Portland, Oregon
