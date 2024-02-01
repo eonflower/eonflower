@@ -1,26 +1,67 @@
 
-<h2 align="center">Howdy 👋🏽, I'm Aloe (they/them)</h2>
-<h3 align="center">A passionate software developer from Portland, Oregon</h3>
+
+```
+About Me                                                     /\_______/\
+ │                                                     ___  /           \    _
+ ├─── Howdy!                                          │ooo│ │   ^   ^   │   │ │
+ │    │                                                \o0\ \  // ▼ \\  /   │ │
+ │    └─── I'm Aloe (they/them)                         \  \_\         /    │ │
+ │             │                                         \              \  / /
+ │             ├─── I'm a Software Developer              \            │ │ │ │
+ │             │             │                             │           │ │_│ │
+ │             │             └───── I <3 Frontend / Mobile 
+ │             │    
+ │             └── I'm an artist, a climber, an innovator
+ ├─── Where?          
+ │     │
+ │     └───── Portland, Oregon
+ │
+ └─── Technologies I work with lately?
+                │
+                └────── Javascript, HTML/CSS, React, React Native, Nextjs
+                        Node, Express, MongoDB, PostgreSQL, Git
+                        Illustrator, Photoshop, Canva, Figma
+```
 
 
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://littlebugbest.com">
+<strong>Check out my portfolio </strong>
+<br />
+<br />
 <div align="center">
-☀️ Actively adding features to <a href="https://trail-chum.onrender.com/">trail chum</a>
-
-🌱 I’m currently deep-diving into **react native**
-
-🦋 You can check out my portfolio [here](https://littlebugbest.com/)
-
-💬 Ask me about **css, react, react native, backpacking, climbing**
-
-📫 You can contact me [here](https://littlebugbest.com/#/contact)
-
-⚡ Fun fact **I was born on a leap day!**
+<img src="./images/logo.png" alt="myspace inspired logo that says littlebugbest.com" height="100">
+<br>
+<img src="https://www.myspacegens.com/images/online_now/131.gif" alt="online now gif" height="30"></h3> 
 </div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/aloenelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aloenelson" height="30" width="40" /></a>
+
+</td>
+
+
+<td align="center">
+<a href="https://linkedin.com/in/aloenelson">
+<strong>Connect with me</strong>
+<br />
+<br />
+
+
+<p>
+<img height="130" alt="anime cat tapping on computer keyboard gif" src="https://25.media.tumblr.com/52a1bf75e7343f967c98d1e74d47c519/tumblr_mkyoznbXid1snblx1o1_400.gif"> 
+</a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+</td>
+</tr>
+</table>
+<br>
+
+<div align="center">
+<h2>✨ Current project is an e-commerce site for utilizing Nextjs and Medusajs ✨</h2>
+</div>
+
+
+
+
 
