@@ -26,7 +26,7 @@ About Me
  └─── Technologies I work with lately?
                 │
                 └────── Javascript, HTML/CSS, React, React Native, Nextjs
-                        Node, Express, MongoDB, PostgreSQL, Git
+                        Node, Firebase, Express, MongoDB, PostgreSQL, Git
                         Illustrator, Photoshop, Canva, Figma
 ```
 
